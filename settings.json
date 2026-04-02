@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nu26spring.aternos.me:42829",
+    "ip": "nu26spring.aternos.me",
     "port": 42829,
     "version": "",
     "try-creative": false
