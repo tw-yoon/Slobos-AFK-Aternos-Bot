@@ -8,7 +8,7 @@
   "server": {
     "ip": "nu26spring.aternos.me",
     "port": 42829,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "nuspring26nu"
+      "password": "chalo178"
     },
     "anti-afk": {
       "enabled": true,
